@@ -4,7 +4,6 @@
 //|                     Creator of the 4-Cycle Ichimoku Dragon Model |
 //+------------------------------------------------------------------+
 #property copyright   "Copyright © 2024, Darsiv. All rights reserved."
-#property copyright   "Copyright © 2024, Darsiv. All rights reserved."
 #property link        "https://www.youtube.com/@Ichimokudragon"
 #property version     "1.00"
 #property strict
